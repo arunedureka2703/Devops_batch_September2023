@@ -2,3 +2,4 @@ Welcome to Edureka
 Welcome to Devops with Continous Testing
 Python is easy and simple to understand
 Selenium is an automation tool
+Automation testing is key to success
